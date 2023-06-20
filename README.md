@@ -38,8 +38,11 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 ## Deployed Link
+https://sebas-portfolio-c33a8380d3a5.herokuapp.com/
 
 ## Screenshots
+<img width="1439" alt="Screenshot 2023-06-20 at 12 58 01 AM" src="https://github.com/TianPnce/Sebas-Portfolio/assets/122128252/8f5d26d0-85a1-4d8c-a83d-411f00b13fc3">
+<img width="1439" alt="Screenshot 2023-06-20 at 12 58 18 AM" src="https://github.com/TianPnce/Sebas-Portfolio/assets/122128252/1e5bfd76-03e4-40af-ab44-36a283603053">
 
 ## Questions
 [TianPnce](https://github.com/TianPnce)
