@@ -44,5 +44,8 @@ https://sebas-portfolio-c33a8380d3a5.herokuapp.com/
 <img width="1439" alt="Screenshot 2023-06-20 at 12 58 01 AM" src="https://github.com/TianPnce/Sebas-Portfolio/assets/122128252/8f5d26d0-85a1-4d8c-a83d-411f00b13fc3">
 <img width="1439" alt="Screenshot 2023-06-20 at 12 58 18 AM" src="https://github.com/TianPnce/Sebas-Portfolio/assets/122128252/1e5bfd76-03e4-40af-ab44-36a283603053">
 
+## Notes
+One thing to note that is obvious on my application is that I was having a really hard time with the images, I was not sure what I was doing wrong and why they werent showing up.
+
 ## Questions
 [TianPnce](https://github.com/TianPnce)
